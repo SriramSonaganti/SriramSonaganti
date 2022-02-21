@@ -3,7 +3,11 @@
 - 💻 I'm a Full Stack Developer
 - 🌱 I’m currently learning Spring boot,React,Nodejs,Angular
 - 👯 I’m looking to collaborate on opensource projects
-
+<!-- <div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+  </div> -->
 
 ![Sriram's GitHub stats](https://github-readme-stats.vercel.app/api?username=sriramsonaganti&show_icons=true&theme=tokyonight)
 
