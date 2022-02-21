@@ -7,6 +7,8 @@
 
 ![Sriram's GitHub stats](https://github-readme-stats.vercel.app/api?username=sriramsonaganti&show_icons=true&theme=tokyonight)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]
+
 ![Github Profile Views](https://komarev.com/ghpvc/?username=sriramsonaganti&label=PROFILE+VIEWS)
 
 <!--
